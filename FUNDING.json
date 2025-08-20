@@ -8,6 +8,9 @@
     },
     "filecoin": {
       "ownedBy": "0x44f59d8C47EF6Fa8fcF477Bfead562268Dc6C8AE"
+    },
+    "ethereum": {
+      "ownedBy": "0x462b2Fb1e19073C9751bAb861AF6F9a42E006041"
     }
   }
 }
